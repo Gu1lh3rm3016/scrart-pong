@@ -1,1 +1,1 @@
-# scrart-pong
+# scratch-pong
